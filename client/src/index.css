@@ -8,3 +8,11 @@ body,
   width: 100%;
   font-family: "Inter", sans-serif;
 }
+
+/* ::-webkit-scrollbar {
+  display: none;
+} */
+
+body {
+  overflow: hidden; /* Hide scrollbars */
+}
