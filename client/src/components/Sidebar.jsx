@@ -168,7 +168,7 @@ const Sidebar = ({
               />
               <Box textAlign={"left"}>
                 <Typography
-                  fontweight={"bold"}
+                  fontWeight={"bold"}
                   fontSize={"0.9rem"}
                   sx={{ color: theme.palette.secondary[100] }}
                 >

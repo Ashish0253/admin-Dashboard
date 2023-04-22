@@ -104,7 +104,7 @@ const Navbar = ({ user, isSidebarOpen, setIsSidebarOpen }) => {
               />
               <Box textAlign={"left"}>
                 <Typography
-                  fontweight={"bold"}
+                  fontWeight={"bold"}
                   fontSize={"0.85rem"}
                   sx={{ color: theme.palette.secondary[100] }}
                 >
