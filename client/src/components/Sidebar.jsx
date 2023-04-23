@@ -38,6 +38,7 @@ const navItems = [
   { text: "Client Facing", icon: null, path: "/" },
   { text: "Products", icon: <ShoppingCartOutlined />, path: "/" },
   { text: "Customers", icon: <Groups2Outlined />, path: "/" },
+  { text: "Transactions", icon: <ReceiptLongOutlined />, path: "/" },
   { text: "Geography", icon: <PublicOutlined />, path: "/" },
   { text: "Sales", icon: null, path: "/" },
   { text: "Overview", icon: <PointOfSaleOutlined />, path: "/" },
