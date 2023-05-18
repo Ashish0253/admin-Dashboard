@@ -15,7 +15,7 @@ const OverallStatSchema = new mongoose.Schema(
     ],
     dailyData: [
       {
-        dat: String,
+        date: String,
         totalSales: Number,
         totalUnits: Number,
       },
